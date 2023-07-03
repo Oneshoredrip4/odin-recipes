@@ -1,15 +1,16 @@
 html{
     box-sizing: border-box;
 }
+
 *, *::before, *::after{
     box-sizing: inherit;
-    
-}
+    }
 
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #acc8e5;
     color: #112a46;
+    font-size: 22px;
 }
 
 h1{
@@ -19,17 +20,23 @@ h1{
     padding: 30px;
 }
 
+h3{
+margin: 20px;
+background-color: #92B6DD;
+}
+
 img{
     width: 250px;
     height: auto;
 }
 
-.container{
-    display: flex;
-    margin-left: 10px;
-}
-
 .description{
     margin-top: 0px;
-    margin-left: 20px;
+    margin: 20px;
+}
+
+.recipe{
+    width: 900px;
+    border: 10px solid #92B6DD;
+    margin: 20px auto;
 }
