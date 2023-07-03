@@ -40,3 +40,8 @@ img{
     border: 10px solid #92B6DD;
     margin: 20px auto;
 }
+
+.img{
+    float: right;
+    margin: 10px 50px;
+}
