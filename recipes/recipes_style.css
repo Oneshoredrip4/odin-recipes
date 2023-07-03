@@ -8,17 +8,19 @@ html{
 
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: black;
-    color: white;
+    background-color: #acc8e5;
+    color: #112a46;
 }
 
 h1{
     text-align: center;
+    font-size: 60px;
+    background-color: #92B6DD;
     padding: 30px;
 }
 
 img{
-    width: 400px;
+    width: 250px;
     height: auto;
 }
 
@@ -28,6 +30,6 @@ img{
 }
 
 .description{
-    margin-top: -20px;
+    margin-top: 0px;
     margin-left: 20px;
 }
