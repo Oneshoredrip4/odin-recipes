@@ -36,6 +36,7 @@ img{
 }
 
 .recipe{
+    
     width: 900px;
     border: 10px solid #92B6DD;
     margin: 20px auto;
@@ -44,4 +45,8 @@ img{
 .img{
     float: right;
     margin: 10px 50px;
+}
+
+.list{
+    padding: 0px 50px;
 }
